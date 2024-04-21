@@ -1,0 +1,8 @@
+{
+  "name": "custom-CNA",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "jeongminsang <jong0364@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
