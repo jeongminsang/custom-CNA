@@ -1,8 +1,14 @@
 {
-  "name": "custom-CNA",
+  "name": "custom-cna",
   "version": "1.0.0",
   "main": "index.js",
   "author": "jeongminsang <jong0364@gmail.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "url": "https://blog.coffeeinc.in/how-to-create-a-next-js-13-project-without-using-create-next-app-c73ba6849916",
+  "dependencies": {
+    "next": "^14.2.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
 }
